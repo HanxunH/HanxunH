@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Hanxun Huang (Curtis) 👋
+
+I am a PhD student in the School of Computing and Information Systems, [The University of Melbourne](https://cis.unimelb.edu.au/). I am supervised by Prof. [James Bailey](https://people.eng.unimelb.edu.au/baileyj/), Dr. [Xingjun Ma](http://xingjunma.com/) and Dr.[Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/). Prior to my PhD, I completed my Master’s at University of Melbourne and Bachelor’s study at [Purdue University](https://www.cs.purdue.edu/). 
+
+🔭 My research mainly focus on:
+- Adversarial Attacks and Defenses
+- Robust Machine Learning
+- Neural Architecture Search
+
+
+
 
 <!--
 **HanxunH/HanxunH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
