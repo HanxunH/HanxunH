@@ -5,10 +5,18 @@ I am a PhD candidate in the School of Computing and Information Systems, [The Un
 🔭 My research mainly focus on:
 - Adversarial Attacks and Defenses
 - Robust Machine Learning
-- Neural Architecture Search
+- Trustworthy ML
 
+### Contact me 📧
+- 🎓 [Google Scholar](https://scholar.google.com.au/citations?user=8CxZe3IAAAAJ&hl=en).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hanxun-huang-536b0a105/).
+- 🌐 Visit my personal website [here](http://hanxunh.github.io/).
 
+### Cheers 🍻
 
+![](https://img.shields.io/github/stars/hanxunh?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/hanxunh)
+
+![](https://github-readme-stats.vercel.app/api?username=hanxunh&theme=blueberry)
 
 <!--
 **HanxunH/HanxunH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
