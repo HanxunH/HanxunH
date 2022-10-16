@@ -9,7 +9,6 @@ I am a PhD candidate in the School of Computing and Information Systems, [The Un
 
 ### Contact me 📧
 - 🎓 [Google Scholar](https://scholar.google.com.au/citations?user=8CxZe3IAAAAJ&hl=en).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hanxun-huang-536b0a105/).
 - 🌐 Visit my personal website [here](http://hanxunh.github.io/).
 
 ### Cheers 🍻
