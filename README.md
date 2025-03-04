@@ -1,6 +1,6 @@
 ### Hi there, I am Hanxun Huang (Curtis) 👋
 
-I am a research fellow at the School of Computing and Information Systems, [The University of Melbourne](https://cis.unimelb.edu.au/). I completed my Ph.D. at the University of Melbourne, supervised by Prof. [James Bailey](https://people.eng.unimelb.edu.au/baileyj/), Dr. [Xingjun Ma](http://xingjunma.com/) and Dr.[Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/). Prior to my PhD, I completed my Master’s at [The University of Melbourne](https://cis.unimelb.edu.au/) and Bachelor’s study at [Purdue University](https://www.cs.purdue.edu/). 
+I am a research fellow at the School of Computing and Information Systems, [The University of Melbourne](https://cis.unimelb.edu.au/). I completed my Ph.D. at the University of Melbourne. Prior to my PhD, I completed my Master’s at [The University of Melbourne](https://cis.unimelb.edu.au/) and Bachelor’s study at [Purdue University](https://www.cs.purdue.edu/). 
 
 🔭 My research mainly focus on:
 - Adversarial Attacks and Defenses
