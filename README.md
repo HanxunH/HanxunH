@@ -1,6 +1,6 @@
-### Hi there, I am Hanxun Huang (Curtis) 👋
+### Hi there, I am Hanxun Huang 👋
 
-I am a research fellow at the School of Computing and Information Systems, [The University of Melbourne](https://cis.unimelb.edu.au/). I completed my Ph.D. at the University of Melbourne. Prior to my PhD, I completed my Master’s at [The University of Melbourne](https://cis.unimelb.edu.au/) and Bachelor’s study at [Purdue University](https://www.cs.purdue.edu/). 
+I am a Postdoctoral Research Fellow at the School of Computing and Information Systems, [The University of Melbourne](https://cis.unimelb.edu.au/), The University of Melbourne. I earned my Ph.D. degree from The University of Melbourne, where I also completed my Master’s degree. Prior to that, I earned my Bachelor’s degree from [Purdue University](https://www.cs.purdue.edu/). 
 
 🔭 My research mainly focus on:
 - Adversarial Attacks and Defenses
