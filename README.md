@@ -3,9 +3,9 @@
 I am a Postdoctoral Research Fellow at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/), The University of Melbourne. I earned my Ph.D. degree from The University of Melbourne, where I also completed my Master’s degree. Prior to that, I earned my Bachelor’s degree from [Purdue University](https://www.cs.purdue.edu/). 
 
 🔭 My research mainly focus on:
+- Trustworthy AI
 - AI Safety
-- Cybersecurity
-- Trustworthy ML
+- Generative AI
 
 ### Contact me 📧
 - 🎓 [Google Scholar](https://scholar.google.com.au/citations?user=8CxZe3IAAAAJ&hl=en).
