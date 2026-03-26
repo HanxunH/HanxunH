@@ -15,9 +15,10 @@ I am a Postdoctoral Research Fellow at the [School of Computing and Information 
 
 ![](https://img.shields.io/github/stars/hanxunh?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/hanxunh)
 
-![](https://github-readme-stats.vercel.app/api?username=hanxunh&theme=blueberry)
 
 <!--
+![](https://github-readme-stats.vercel.app/api?username=hanxunh&theme=blueberry)
+
 **HanxunH/HanxunH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
