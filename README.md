@@ -13,7 +13,7 @@ I am a Postdoctoral Research Fellow at the [School of Computing and Information 
 
 ### Cheers 🍻
 
-![](https://img.shields.io/github/stars/hanxunh?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/hanxunh)
+[![GitHub stars](https://img.shields.io/github/stars/HanxunH?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1d&color=006cac)](https://github.com/HanxunH?tab=repositories&sort=stargazers) [![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHanxunH&query=%24.followers&label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1d&color=006cac)](https://github.com/HanxunH?tab=followers)
 
 
 <!--
